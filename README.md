@@ -5,7 +5,7 @@ A collection of pinta plugins:
 - effects to manipulate alpha channel of images
 - brushes collection
 
-##Bugs
+## Bugs
 
 All bugs should be reported to the issue tracker on this Github page, not to the main Pinta bug tracker.
 
